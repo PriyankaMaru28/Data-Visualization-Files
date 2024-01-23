@@ -1,4 +1,5 @@
-# Data-Visualization-Files
+# How can the company improve?
+## Data-Visualization-Project 
 This repository demonstrates the Python work that has been done during the data visualization course .
 It involves using Python libraries like pandas, numpy,plotly js, etc.
 
